@@ -1,0 +1,13 @@
+#------------------------------------------------
+                version 1.0
+
+* 2022.03.31
+* Parallel processing for registerBrick()
+* On CRAN
+
+#------------------------------------------------
+                version 0.1
+
+* 2021.11.23
+* 3, 2, 1... Launch!
+* First version (beta) on GitHub (arsilva87/hyperbrick)
